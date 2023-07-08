@@ -28,6 +28,7 @@ Here is a full list of **all the mods** that are included in this modpack:
   - [Krypton](https://modrinth.com/mod/krypton) by [astei](https://modrinth.com/user/astei) (networking optimizations, benefiting CPU usage)
   - [Ksyxis](https://modrinth.com/mod/ksyxis) by [VidTu](https://modrinth.com/user/VidTu) (Almost entirely disables world pre-loading, so one can get to playing faster)
   - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) by [LambdAurora](https://modrinth.com/user/LambdAurora) (a dynamic lights mod)
+  - [Language Reload](https://modrinth.com/mod/language-reload) by [Jerozgen](https://modrinth.com/user/Jerozgen) (reduces load times and adds fallbacks for languages)
   - [Lithium](https://modrinth.com/mod/lithium) by the [caffeinemc team](https://github.com/CaffeineMC/lithium-fabric) (much known - general server-side optimizations)
   - [Mod Menu](https://modrinth.com/mod/modmenu) by [Prospector](https://modrinth.com/user/Prospector) (adds a mod menu to view the list of mods you have installed)
   - [More Culling](https://modrinth.com/mod/moreculling) by [fxmorin](https://modrinth.com/user/fxmorin) (culls more block faces and other things for a performance boost.)
