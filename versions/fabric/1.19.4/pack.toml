@@ -1,0 +1,13 @@
+name = "Softly Optimized"
+author = "NONPLAYT"
+version = "1.19.4-1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9334fcf09f2738c85dac2da7afc8effe8a3cc454371896413f7d00671485f307"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.4"
