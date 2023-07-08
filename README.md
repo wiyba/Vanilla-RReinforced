@@ -42,3 +42,14 @@ Here is a list of **all the mods** that are included in this modpack:
   - [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by [shedaniel](https://modrinth.com/user/shedaniel) (keeps your settings when updating the modpack)
   - [Zoomify](https://modrinth.com/mod/zoomify) by [isxander](https://modrinth.com/user/isxander) (bringing back Optifine zoom)
 </details>
+
+---
+### Versioning
+The versioning format is `<MC version>-x.y.z`, where:
+
+- `<MC version>` means for which version of Minecraft modpack update applies
+- `x` is a mod list revision (addition/removal of a mod)
+- `y` is the config revision (for example: default config for Sodium was changed)
+- `z` means that some mod has been updated and no substantial changes otherwise.
+
+Also, with every Minecraft release - `x.y.z` resets to 1.0.0 because for every Minecraft version different mod sets presented.
