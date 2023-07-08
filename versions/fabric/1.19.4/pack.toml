@@ -1,12 +1,12 @@
 name = "Softly Optimized"
 author = "NONPLAYT"
-version = "1.19.4-1.0.1"
+version = "1.19.4-1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ffc2d8c9ebe0044bd7ff82e1a6a9e9dd991eb284582acd4cb919ce4e90049b9a"
+hash = "bc8acc1972b4c9d84860ac719d749ef7e9f2055ab73fe886c60a4af18eae932e"
 
 [versions]
 fabric = "0.14.21"

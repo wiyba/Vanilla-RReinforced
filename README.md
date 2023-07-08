@@ -8,7 +8,7 @@ One of the goals of this modpack is to make it comfortable for people to play *M
 
 ---
 
-Here is a list of **all the mods** that are included in this modpack:
+Here is a full list of **all the mods** that are included in this modpack:
 <details>
   <summary>Included mods...</summary>
 
