@@ -2,26 +2,29 @@
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/WhCmeZLu?style=for-the-badge&label=Modrinth&color=1bd96a&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fsofop%2Fversions)
 ---
 
-The **Softly Optimized** modpack that takes game optimization to new heights. With a carefully curated collection of mods, it brings unparalleled performance enhancements, allowing you to experience Minecraft like never before. Say goodbye to lag and technical hiccups as Softly Optimized supercharges your gameplay with bringing back beloved Optifine features.
+The **Vanilla Reimagined** modpack that takes game optimization to new heights. With a carefully curated collection of mods, it brings unparalleled performance enhancements, allowing you to experience Minecraft like never before. Say goodbye to lag and technical hiccups as Vanilla Reimagined supercharges your gameplay with bringing back beloved Optifine features.
 
 One of the goals of this modpack is to make it comfortable for people to play *Minecraft* without lags and with best performance and nothing more.
 
 ---
 
-Here is a full list of **all the mods** that are included in this modpack:
+Here is a full list of **all the mods, resource packs and shaders** that are included in this modpack:
 <details>
   <summary>Included mods...</summary>
 
   - [Animatica](https://modrinth.com/mod/animatica) by [FoundationGames](https://modrinth.com/user/FoundationGames) (A mod implementing the OptiFine/MCPatcher animated texture format)
+  - [Better Statistics Screen](https://modrinth.com/mod/better-stats) by [TheCSDev](https://modrinth.com/user/TheCSDev) (mod that improves the statistics screen and makes it more useful)
+  - [Bobby](https://modrinth.com/mod/bobby) by [Johni0702](https://modrinth.com/user/Johni0702) (allows for render distances greater than the server's view-distance)
   - [CIT Resewn](https://modrinth.com/mod/cit-resewn) by [shsupercm](https://modrinth.com/user/shsupercm) (Re-implements MCPatcher's CIT (custom items by renaming in resource packs))
+  - [Cloth Config API](https://modrinth.com/mod/cloth-config) by [shedaniel](https://modrinth.com/user/shedaniel) (configuration Library for Minecraft Mods)
+  - [Debugify](https://modrinth.com/mod/debugify) by [isxander](https://modrinth.com/user/isxander) (Fixes Minecraft bugs found on the bug tracker)
   - [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) by [juliand665](https://modrinth.com/user/juliand665) (set FPS to 1 when Minecraft minimised)
   - [Enhanced Block Entities](https://modrinth.com/mod/ebe) by [FoundationGames](https://modrinth.com/user/FoundationGames) (reimplements block (tile) entities for performance)
   - [Entity Culling](https://modrinth.com/mod/entityculling) by [tr7zw](https://modrinth.com/user/tr7zw) (uses path tracing to cull entities behind walls)
-  - [Exordium](https://modrinth.com/mod/exordium) by [tr7zw](https://modrinth.com/user/tr7zw) (limits framerate on GUI elements for a huge performance boost with a neligible visual difference, seems to lower performance in its newer versions)
   - [Fabric API](https://modrinth.com/mod/fabric-api) (needed for many mods to function)
   - [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) by [modmuss50](https://modrinth.com/user/modmuss50) (Kotlin library for mods to function)
-  - [FastQuit](https://modrinth.com/mod/fastquit) by [KingContaria](https://modrinth.com/user/KingContaria) (return to the title screen early while your world is still saving in the background)
   - [FerriteCore](https://modrinth.com/mod/ferrite-core) by [malte0811](https://modrinth.com/user/malte0811) (memory usage optimizations)
+  - [kennytvs-epic-force-close-loading-screen-mod-for-fabric](https://modrinth.com/mod/forcecloseworldloadingscreen) by [kennytv](https://modrinth.com/user/kennytv) (instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration)
   - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by [RaphiMC](https://modrinth.com/user/RaphiMC) (Immediate-mode rendering optimizations concerning many areas of the game)
   - [Indium](https://modrinth.com/mod/indium) by [comp500](https://modrinth.com/user/comp500) (needed for EBE to not look wrong)
   - [Iris Shaders](https://modrinth.com/mod/iris) by [coderbot](https://modrinth.com/user/coderbot) (allows to use shader packs like in Optifine)
@@ -30,11 +33,15 @@ Here is a full list of **all the mods** that are included in this modpack:
   - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) by [LambdAurora](https://modrinth.com/user/LambdAurora) (a dynamic lights mod)
   - [Language Reload](https://modrinth.com/mod/language-reload) by [Jerozgen](https://modrinth.com/user/Jerozgen) (reduces load times and adds fallbacks for languages)
   - [Lithium](https://modrinth.com/mod/lithium) by the [caffeinemc team](https://github.com/CaffeineMC/lithium-fabric) (much known - general server-side optimizations)
+  - [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper) by [isxander](https://modrinth.com/user/isxander)
   - [Mod Menu](https://modrinth.com/mod/modmenu) by [Prospector](https://modrinth.com/user/Prospector) (adds a mod menu to view the list of mods you have installed)
   - [More Culling](https://modrinth.com/mod/moreculling) by [fxmorin](https://modrinth.com/user/fxmorin) (culls more block faces and other things for a performance boost.)
   - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by [Aizistral](https://modrinth.com/user/Aizistral) (a mod that provides options to protect yourself against the chat reporting system introduced in 1.19.1. btw, it's not a performance mod)
+  - [Noxesium](https://modrinth.com/mod/noxesium) by [Aeltumn](https://modrinth.com/user/Aeltumn) (a client-side fabric mod with various changes and performance improvements)
   - [OptiGUI](https://modrinth.com/mod/optigui) by [opekope2](https://modrinth.com/user/opekope2) (custom inventory GUIs)
+  - [Puzzle](https://modrinth.com/mod/puzzle) by [Motschen](https://modrinth.com/user/Motschen) (adds resourcepack features and a GUI to more conveniently configure OptiFine alternatives)
   - [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) by [FlashyReese](https://modrinth.com/user/FlashyReese) (Alternative Options Menu for Sodium)
+  - [Sodium Blending Registry](https://modrinth.com/mod/sodium-blendingregistry) by [devpelux](https://modrinth.com/user/devpelux) (fixes a sodium "color blending bug")
   - [Sodium Extra](https://modrinth.com/mod/sodium-extra) by [FlashyReese](https://modrinth.com/user/FlashyReese) (Features that shouldn't be in Sodium.)
   - [Sodium](https://modrinth.com/mod/sodium) by the [caffeinemc team](https://github.com/CaffeineMC/sodium-fabric) (much known - rendering engine rewrite utilizing modern OpenGL features)
   - [Starlight](https://modrinth.com/mod/starlight) by [spottedleaf](https://modrinth.com/user/spottedleaf) (rewrites Minecraft default light engine)
@@ -42,6 +49,12 @@ Here is a full list of **all the mods** that are included in this modpack:
   - [YetAnotherConfigLib](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander) (a builder-based configuration library for Minecraft)
   - [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr) by [shedaniel](https://modrinth.com/user/shedaniel) (keeps your settings when updating the modpack)
   - [Zoomify](https://modrinth.com/mod/zoomify) by [isxander](https://modrinth.com/user/isxander) (bringing back Optifine zoom)
+</details>
+
+<details>
+  <summary>Included resource packs...</summary>
+
+  - [Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper) by [robotkoer](https://modrinth.com/user/robotkoer) (An educational tool that explains chat reporting in a simple and neutral way)
 </details>
 
 ---
