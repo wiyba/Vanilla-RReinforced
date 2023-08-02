@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "50664b48d81f18c7ff0a7cc73b0fe3f0a3f3dddea88cabcb631d70995d60d7de"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e306cd7e52af8a423bb5b189b20d82263b69bf1e6efb47e9bd054b7fd76f0517"
+hash = "73a0efede9966b33752430aebdd1fd59a61ad6b565751f1236fff47e8ecca5c2"
 metafile = true
 
 [[files]]
@@ -334,12 +334,12 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
+hash = "f9a9e8ce7d7f9443a3dd6b95024d087350c10828a492811cf0247c6889009af4"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "be8073079bf41847c3aa1fb80c9941fa52b8c0ae39eb44a1475618d31c33e1d9"
+hash = "6ff7c68fb86e72f9f9feb1858e04cd2b7f80efda3b6819d484806a4316215557"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
+hash = "1cb218af33e0eff1014b3e49ea1e0da40f14de23b18f95ed928a5495f3d2c334"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
+hash = "5db04e6d2759b1b4db3d75fd35eea2ff4c567f3d44d5bbad224dcaff3a4a2318"
 metafile = true
 
 [[files]]
