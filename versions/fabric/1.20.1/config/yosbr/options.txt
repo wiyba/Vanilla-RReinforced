@@ -1,5 +1,0 @@
-simulationDistance:5
-guiScale:3
-resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
-key_key.saveToolbarActivator:key.keyboard.z
-key_key.loadToolbarActivator:key.keyboard.x
