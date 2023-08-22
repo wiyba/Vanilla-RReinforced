@@ -1,12 +1,12 @@
 name = "Vanilla Reimagined"
 author = "NONPLAYT"
-version = "1.20.1-4.0.3"
+version = "1.20.1-4.0.4-quilt"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "43d8f7f6859034c5b8388f6a5caccf2d804faf6b2a91198ab56153a61009d941"
+hash = "a2dc29b1609934e0c9990f224134fff4eb5aead9c700e926140fbf973b0f3fae"
 
 [versions]
 minecraft = "1.20.1"
