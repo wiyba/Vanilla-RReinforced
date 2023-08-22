@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "79f1b115272dda60974bf0f16379308a673184fefc973a598a1a2f84e261b19d"
+hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6a5b36909dddce957a6a6bb567218b9c400ed183749ff9cb12d4a42964d9bf5d"
+hash = "cdfba6239ea3dd9c111ebdca03626c3f179f7794ee146d0f043a82064ea39be1"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
