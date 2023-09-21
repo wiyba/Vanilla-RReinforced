@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
+hash = "b2501ec08296916d344df698d0542054e49eae3283d97df3c375c9ef3df93808"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "07b5408b9bb345142ba433e13c5022fe05b6f244cc6b5d5c54779398b5ea191a"
+hash = "eba939fcdf3f35b56072cc8c9476c35def2aa7bdecfde6a945980c92ffdf7c9b"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8f7e28eb56a3f538cf2be43c03aea1c5b3017a5fe0429a6b67b052e0f6c0b5d4"
+hash = "36b3e3375a645a376264836683a508d7fa2e555fb55f173bb7fe4571ca15702f"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "66b982a755b4d812e9792502e96672f2ef2d8ce4ef702d2bf86cf45d99a7ece0"
+hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0115f86693696e977523c0137f7951a28577290d5e0e176b257e437e14f3fd5f"
+hash = "ca885ba80a295fe9729c9ef27e366911d8ec2467bcced404f08593ead37176b0"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+hash = "5a48a7ca1b3560872a2829b1aa1d91cf2d36627b74f3a1e894e4612474fcddb0"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
+hash = "d1cf03e2ca8bee7016c5d752a4ff5794ca490ffbb0293b2fa175f5d50bb036b5"
 metafile = true
 
 [[files]]
