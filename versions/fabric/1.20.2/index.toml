@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d2b04b985ed22bb26338837b0547f08a41b82b23c3136f1fff9582b1748b7954"
+hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b50ea3f021933d82142587865b7f5998c36b5463613c61c85798cb9ca66e2f45"
+hash = "74466c118cfcd7b89ccfc3841a4bf9421e762079b584807ca8651d6145b3afd8"
 metafile = true
 
 [[files]]
@@ -302,5 +302,5 @@ hash = "45f71ac3b861dc24310cb3d2b7560fcbfdebe86061f133409ece76025ccf3d9c"
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2e4f2e2c014aa8ff2b24632d7fec371e31d6dc372275e6676f84980ee1754eea"
+hash = "0962dea8482a1b14d2e2f2d85b7d5f9c063b6fcb07ca58a58abf49f641385d1d"
 metafile = true
