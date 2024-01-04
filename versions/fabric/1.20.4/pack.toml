@@ -1,12 +1,12 @@
 name = "Vanilla Reimagined"
 author = "NONPLAYT"
-version = "1.20.4-1.0.0-fabric"
+version = "1.20.4-1.0.1-fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1896b1fdd9604568ca3906e36f1f4690ac99ad3a1467f45e9ae3b2d7b9d5296c"
+hash = "4af2b363b9fad2cb25905652a5ead258c79b5ce3187dbc6b34e5f0498e062c14"
 
 [versions]
 fabric = "0.15.3"
