@@ -158,12 +158,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
+hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a054765471e2b9625ca5fd17afe57219319e790bfaf5c60045120faf4c9ca94b"
+hash = "44d709018f8b7890428dac2ad1e4ab7020c3fcf49b9a37bb738008c691084fce"
 metafile = true
 
 [[files]]
@@ -173,12 +173,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "88fe2cd2e5d5e50597e09f704ca21bc7ad499e65d4c043250e9bd9bef9ccd22c"
+hash = "c1a503279c840760e75e9c70d1c05944b99222e4028ec954dade8ef9da4d9e51"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "052cee4a2f1230519fb12dd030dd69990ff35aae840264d40065a0fdcb167ab6"
+hash = "daf2a7408eeeaf8439527b153d24f4ee60865d8e3e7b2e4e05d4d56ce0b1797f"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "783fe7d40a9e8e14775ed458cedc7cfc5cd13a2d3d857792adfda77025d3f379"
+hash = "5ba07c706075d05a1e095a4ab22997926be16615847e531606b5f39ddbd428a2"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "4808ab8081af61c9aae3067dd243ec6b7b6acc391429dcbd362357000d14085c"
+hash = "821563e8e9c5ca2e31397655de6a9ba59ed93e7bd440f09a610798faaa3bff39"
 metafile = true
 
 [[files]]
@@ -278,12 +278,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2498a978634a0add18ebd0a47b4e8d23dbe8ac19d926fabf436d15ad94bd9a44"
+hash = "35604d51f362bbe912d84d8a43835c6b205fd51f8c655202ba1bf59aaaddab19"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "1f77901c1b32849c704d8dbd0cd3aefc47e36a63b718fa92708ab73a3a529d89"
+hash = "7005e926a32cfe6e1191ea0da9f65635e28f9dec4d827044c43da622697ba9c2"
 metafile = true
 
 [[files]]
@@ -292,5 +292,5 @@ hash = "45f71ac3b861dc24310cb3d2b7560fcbfdebe86061f133409ece76025ccf3d9c"
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "873cc072ae826658a2bc30004c53c063477e34a364862d83cd2c306956d0f2f8"
+hash = "90c849e9815a573436b53334be4636ccd63b5ba47cebe6677979fd5375b00185"
 metafile = true
