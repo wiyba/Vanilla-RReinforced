@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](/assets/banner.png)
+![Banner](https://raw.githubusercontent.com/BX-Team/Vanilla-Reimagined/master/assets/banner.png)
 
 A collection of mods to heavily optimize the game and bringing back Optifine features.
 
