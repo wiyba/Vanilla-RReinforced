@@ -159,8 +159,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "59e45ade7176229ff9750ae85356ba4a92b5124592dd09b0244c861cfda08575"
 metafile = true
-
-[[files]]
-file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "998f4b45ce632d9fbba226163e0bb51c52721d9031c0f24fb5f88299e4e2f7eb"
-metafile = true
