@@ -1,0 +1,13 @@
+name = "Vanilla Reimagined"
+author = "BX Team"
+version = "1.21.8-1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "99359dd0ef56d644b9ffa1d7bff0027e92741df8e3cebbdf7b45b2f374e5c827"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.8"

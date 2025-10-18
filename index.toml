@@ -1,0 +1,166 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7a409a13d5f8bb087ff615dc5947b3f26c6bacec22618d8d733d8d4789fb3543"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a7827d679e99475712dae370b836344b901524ff8ff0a7930aaf448303792113"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "84f74d4abc0ece0ed9f62d9454d35415ace97e0aa83ed3e8a2d1ff7167b45999"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "dae294bc7e60c5052b3c705bc15e4b2ebc1af7465e294c4f9824a4b63719475b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2df76fcc5bacce682495502f342be0c1f74a33bf0835d80dd0d3d5fc0d2f3b19"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "e183674025244ef6192a3de27b8f7ba9479c2946a07d47b18c69faca939ea123"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "bc4f9441d69eefd3d48ed921338fbad1d24d0ecc671f755a83de0ad9f6418d3c"
+metafile = true
+
+[[files]]
+file = "mods/gputape.pw.toml"
+hash = "8c62cf20a7332b7256386d7d45b64d0b37662420c2d61518a3a9fdf91455fd07"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "8d40436970d9adcfe3c0b72c9f0cd1af217948469b091b0f07ca3df187ce2e61"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "edad218cc48e1fb4c78878ff4a7aec2810d6d647e59eefa1e86477f553f5d8c0"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "d4ed530a3a278079be0024a2c7d6309c1f577c2a0d97922fc9e7af52b9bf01a9"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "4ed5bf9e808739ddeec2692fbd7c16b3df653f1b2823de3f07e5dced1c5fc439"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "6d9742689a524965f89b5cb1194e4422f2454911a026fd9e98dce82db4a12157"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "33bd75664b8623d78ab445e73e9ebe5655660d66d4d0a396c2f2650ec7b2b5aa"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "b182456aefe4b8f37cc3dd34fdccbd07fcd0a2e9a6c175d5e39cd6d5190388dc"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "780646258386fccb6c92851e13dfb32b5d85cae9596ce6c829894b179245e64c"
+metafile = true
+
+[[files]]
+file = "mods/super-fast-math.pw.toml"
+hash = "d4a54516d6701c04206c11a3a7b1376970dcaa1d63b03db97ae4205435683b2c"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ea0eb6ab539b43926503901694913866aa81a9a644cd3469080214a7ca785db2"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "59e45ade7176229ff9750ae85356ba4a92b5124592dd09b0244c861cfda08575"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "998f4b45ce632d9fbba226163e0bb51c52721d9031c0f24fb5f88299e4e2f7eb"
+metafile = true

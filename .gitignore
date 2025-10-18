@@ -1,0 +1,5 @@
+# Ignore exe files
+*.exe
+
+# Exclude exported Modrinth modpacks
+*.mrpack
