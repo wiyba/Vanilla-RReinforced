@@ -12,7 +12,12 @@ fork of vanilla reimagined by bxteam to bring some vanila+ mods i and my mates u
 
 ### About the modpack
 
-helo
+this modpack was forked from bx-team/vanilla-reimagined and is intended to bring a lot of useful client-sided utility and optimization mods at one place. modpack includes:
+
+- ➕ **QoL Improvements**
+- ➕ **QoL Improvements**
+- ➕ **QoL Improvements**
+- ➕ **QoL Improvements**
 
 ---
 
@@ -25,3 +30,4 @@ The versioning format is `<MC version>-x.y.z`, where:
 - `z` means that some mod has been updated and no substantial changes otherwise.
 
 Also, with every Minecraft release - `x.y.z` resets to 1.0.0 because for every Minecraft version different mod sets presented.
+
