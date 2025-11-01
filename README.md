@@ -2,7 +2,7 @@
 
 ![Banner](https://raw.githubusercontent.com/wiyba/WBA-Optimized/master/assets/text.svg)
 
-fork of vanilla reimagined by bxteam to bring some vanila+ mods i and my mates use
+Fork of Vanilla-Reimagined by BX-Team to bring some Vanila+ mods I and my mates use
 
 [![Available on Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/wba)
 [![Chat on Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/qNyybSSPm5)
@@ -12,7 +12,7 @@ fork of vanilla reimagined by bxteam to bring some vanila+ mods i and my mates u
 
 ### About the modpack
 
-this modpack was forked from bx-team/vanilla-reimagined and is intended to bring a lot of useful client-sided utility and optimization mods at one place. modpack includes:
+This modpack is intended to bring a lot of useful client-sided utility and optimization mods at one place. Modpack includes:
 
 - ➕ **QoL Improvements**
 - ➕ **QoL Improvements**
@@ -30,4 +30,5 @@ The versioning format is `<MC version>-x.y.z`, where:
 - `z` means that some mod has been updated and no substantial changes otherwise.
 
 Also, with every Minecraft release - `x.y.z` resets to 1.0.0 because for every Minecraft version different mod sets presented.
+
 
