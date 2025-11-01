@@ -1,0 +1,13 @@
+name = "Shield By Side"
+filename = "Shield By Side 1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/V7f4DNGJ/versions/MD0ucJ2g/Shield%20By%20Side%201.2.zip"
+hash-format = "sha512"
+hash = "664cbf9ad53a516fb0f3b74147101424588522fc6b47641eb7ae2a1250773ef0099eb86cfc632813c1e79e2f5912e2b0e5ce30056537da659d1441c34e1e744a"
+
+[update]
+[update.modrinth]
+mod-id = "V7f4DNGJ"
+version = "MD0ucJ2g"

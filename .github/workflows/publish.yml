@@ -42,20 +42,20 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Vanilla Reimagined
-          path: "Vanilla Reimagined-*.mrpack"
+          name: WBA Optimized
+          path: "WBA Optimized-*.mrpack"
 
       - name: Publish to Modrinth
         uses: Kira-NT/mc-publish@v3.3.0
         with:
-          modrinth-id: WhCmeZLu
+          modrinth-id: i9s9tzwr
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-featured: true
           modrinth-unfeature-mode: subset
           modrinth-version: ${{ steps.pack_version.outputs.value }}
           modrinth-version-type: release
 
-          name: 'Vanilla Reimagined ${{ steps.pack_version.outputs.value }}'
+          name: 'WBA Optimized ${{ steps.pack_version.outputs.value }}'
           files: '*.mrpack'
           loaders: |
             fabric
@@ -65,8 +65,8 @@ jobs:
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2.4.1
         with:
-          files: "Vanilla Reimagined-*.mrpack"
-          name: 'Vanilla Reimagined ${{ steps.pack_version.outputs.value }}'
+          files: "WBA Optimized-*.mrpack"
+          name: 'WBA Optimized ${{ steps.pack_version.outputs.value }}'
           tag_name: ${{ steps.pack_version.outputs.value }}
           generate_release_notes: true
           token: ${{ secrets.GITHUB_TOKEN }}

@@ -1,10 +1,10 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/BX-Team/Vanilla-Reimagined/master/assets/banner.png)
+![Banner](https://raw.githubusercontent.com/wiyba/WBA-Optimized/master/assets/text.svg)
 
-A collection of mods to heavily optimize the game and bringing back Optifine features.
+fork of vanilla reimagined by bxteam to bring some vanila+ mods i and my mates use
 
-[![Available on Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/vred)
+[![Available on Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/wba)
 [![Chat on Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/qNyybSSPm5)
 </div>
 
@@ -12,12 +12,7 @@ A collection of mods to heavily optimize the game and bringing back Optifine fea
 
 ### About the modpack
 
-This modpack was created in order to optimize the game as much as possible, and bring back features from Optifine. Modpack includes:
-
-- ⚡ **Performance Optimization**
-- 🎨 **Visual Features**
-- 🔍 **Optifine like Features**
-- ➕ **QoL Improvements**
+hello
 
 ---
 

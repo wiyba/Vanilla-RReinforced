@@ -1,8 +1,119 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CONTRIBUTING.md"
-hash = "aabb24cbefe7f15cf0f7e1915d3958d625ad2a207139cae591c6bcae70eb4264"
+file = "config/betterf3.json"
+hash = "990db8a0f52f7f4d48f03b1058fa88ef4e8a97540a42374f91f5307b494b809d"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "1d39a510920764ad9888554b2e635a7705b77e6883a0fc5468688826c268eaaa"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "539230b1cdd9b0a87a36b99561ac43e9a4e84c5993a23ef862e572f22508c6d6"
+
+[[files]]
+file = "config/jade/profiles/1/jade.json"
+hash = "14d4666eaa26dbfcc8d2eb5b19b42bff9c69e3dc1c937f4619f76f6170c9b661"
+
+[[files]]
+file = "config/jade/profiles/2/jade.json"
+hash = "5f53bbcfe265bb1a22b596f78754826b32545a77e714c03ae0d5d845904150dd"
+
+[[files]]
+file = "config/jade/profiles/3/jade.json"
+hash = "28e55a5f4425baccad039cf10a419d7b7b948a1f39e1b40b02f3246bde23f4c9"
+
+[[files]]
+file = "config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "38ff3fca936fbe7ef0bad26a3a8ce16f08b6f83697b9ae82ca5f382b519a433d"
+
+[[files]]
+file = "config/jade/usernamecache.json"
+hash = "0d17316a6367d984b4463bc3c321c525deaeb6f104e6a045f0e362d84b7c3a5e"
+
+[[files]]
+file = "config/mod-loading-screen/background.png"
+hash = "a45d337cadd2aaa37d4925b58ced286d53b46011a409e0890047c199abee4a55"
+
+[[files]]
+file = "config/mod-loading-screen/config.txt"
+hash = "2339a0db7f214fdbe46b75fd55109e6ca1e4744d8a9cc4eb201215799f8a47b5"
+
+[[files]]
+file = "config/mod-loading-screen/icon.png"
+hash = "3dc23d36310c9bc33291f897396c044b25412772e108e0474cc35bf0679ef921"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "ee42e1893d9c5ea4358c8bbaf28acd44ac2a0770480227f31aa13e14843ffaa7"
+
+[[files]]
+file = "config/showmeyourskin-server.json"
+hash = "dd7b57375d24bdb15083a8cf66226fc0480159d31fb672cec4d8dcd6f27f1a5b"
+
+[[files]]
+file = "config/showmeyourskin.json"
+hash = "f578bfc7929eb0093a57767e6893429aed963102fcea527280669181d85f61b0"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "50ca9c24ca1af353561eca6210cc309a19804852e0916f7a20e0bcd520f27228"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "6aeb1c1b6e7de3af0bae29d7eba2d87735cdc93e0389198644bd3440847b8858"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "d44155ad6524baf93af689dcc2f7bab16d1989475f4c91a88ee526687e4957ec"
+
+[[files]]
+file = "config/xaeroplus.txt"
+hash = "59c14026329de00ec985b6d2f2ca92c4f4fe7ca7329dcf67a5b66b96b5cdb4a3"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "b88876c4630c405c9a23e1b743af7a2e5a86dc124f541559e9adbf3b3dbf3443"
+
+[[files]]
+file = "icon.png"
+hash = "e392299c36bf8ed4f3de1d1b6cec32478d233ea8e52fcb028b3dccd74b0b9f53"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c71213885593728467f9063ac63c1ba54912732a243a3d1c30f809bcc014d166"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "775fabd67ffe4324c6746bde549dc732d8ff203ddb9d66d12b1eb6c3845039e7"
+metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -10,8 +121,53 @@ hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "bfa3ef713975bd287cdddd1afb713ed0f16326427cf2d78af4030f8b21b95be3"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "56fc22a9f3dc3eb2aa598aad649071f84c43c17d8618a39f52aede94d29c0a1f"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1da0afe23273616b36e2c6d815819ea43ff3847db20639067cfa8e13e930753"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "2108a3f7ff334130bc04e57cb19d56a6f0c1b403e89c120402e06dfb6c973412"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "e166ff1288ee8d45566269f867025ae16934284d592e7efac97d31596413b15f"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "0d07adf7d0d94bb683d412849b363f0e770d77ce0808414e2080e4ae773dde7d"
+metafile = true
+
+[[files]]
+file = "mods/durability-plus.pw.toml"
+hash = "4df86a1620217251fc0c2bd6971a207bd3745db6f729b2175818948f43fc9e6e"
 metafile = true
 
 [[files]]
@@ -70,6 +226,11 @@ hash = "8c62cf20a7332b7256386d7d45b64d0b37662420c2d61518a3a9fdf91455fd07"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "c740306a2d1a8559d45a6c763a65869b95933b93326e5f308d7a0c1b8f22395d"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "9af4574f848b49a2b11822e81500aebacdb77c416dbcf4502be5feaabfb5f66f"
 metafile = true
@@ -80,13 +241,28 @@ hash = "8d40436970d9adcfe3c0b72c9f0cd1af217948469b091b0f07ca3df187ce2e61"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "e5506cea71f62e147a45e6c72a55a430fce5937024f648c819c15dc14b500462"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "edad218cc48e1fb4c78878ff4a7aec2810d6d647e59eefa1e86477f553f5d8c0"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
+file = "mods/language-reload.pw.toml"
+hash = "97385bd886d2fcad952fd7e76501300049237ec4a47a7b0240cf46138d9cc35a"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
+metafile = true
+
+[[files]]
+file = "mods/mod-loading-screen.pw.toml"
+hash = "147f3fc9a0fa837fcc2a7fc21fd01cb6b46c6fd842b1f40c20f6066d239d0e72"
 metafile = true
 
 [[files]]
@@ -105,8 +281,23 @@ hash = "d4ed530a3a278079be0024a2c7d6309c1f577c2a0d97922fc9e7af52b9bf01a9"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
+metafile = true
+
+[[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
 metafile = true
 
 [[files]]
@@ -120,8 +311,22 @@ hash = "4ed5bf9e808739ddeec2692fbd7c16b3df653f1b2823de3f07e5dced1c5fc439"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml.disabled"
+hash = "4ed5bf9e808739ddeec2692fbd7c16b3df653f1b2823de3f07e5dced1c5fc439"
+
+[[files]]
+file = "mods/peek.pw.toml"
+hash = "b7b0971398a565a9912d96f7ea7f7330cdb05eaf14d367b02512a022f7830062"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "5dff8bca658ae787c75fd2a37a40c8512a5fbc8a2421d106f94e08c8640b9075"
 metafile = true
 
 [[files]]
@@ -140,6 +345,16 @@ hash = "33bd75664b8623d78ab445e73e9ebe5655660d66d4d0a396c2f2650ec7b2b5aa"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "d11b1975a28e010204fd794db4d7c99c877fc93f9c229044fc7266c5ff61dfc5"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "b1f6b652c98f6b02f2f3435be7b51f999ab96a125fe482057a32aaefa0a1ee88"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b182456aefe4b8f37cc3dd34fdccbd07fcd0a2e9a6c175d5e39cd6d5190388dc"
 metafile = true
@@ -150,8 +365,28 @@ hash = "780646258386fccb6c92851e13dfb32b5d85cae9596ce6c829894b179245e64c"
 metafile = true
 
 [[files]]
-file = "mods/super-fast-math.pw.toml"
-hash = "d4a54516d6701c04206c11a3a7b1376970dcaa1d63b03db97ae4205435683b2c"
+file = "mods/viafabricplus.pw.toml"
+hash = "e78883e2313f914dd3f5ffe9e99880701e35304758a504d0fee92e12dda73c42"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "d1de6d3e889db21acd36afb754f20b6ccc8c850cb7ef839047eb440e6114d652"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "44e71ba421c365f719649bfdfe5b7ae7b235d468cd6e9a5cabaa4572a9c1326a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d72a8ffcacdd19e6d71eccb4b112cf763bf75b2c438506e01ab0aa76e91c6325"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "f3b0dc8728401319a897b51835b2b65898dc3b769aa1f1ed0a1f513bd91c409a"
 metafile = true
 
 [[files]]
@@ -162,4 +397,166 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "59e45ade7176229ff9750ae85356ba4a92b5124592dd09b0244c861cfda08575"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "a8c44429d3c581414283fe3c2309d0b089a9262345003a3127a58d13781b4763"
+
+[[files]]
+file = "resourcepacks/Catppuccin Mocha Blue.zip"
+hash = "933013a1d647bbe235d17f0593686875195252db1205ac509d77071878624768"
+
+[[files]]
+file = "resourcepacks/Icon Branding Remover - For 1.8-1.21.8.zip"
+hash = "bcac2d57426e2db6e78eeaff1bd23cfe954f01768274a3ecd3bf49261e26b47e"
+
+[[files]]
+file = "resourcepacks/InfinityCrosshair-n.zip"
+hash = "2a3dfe1e21876def003a01633fea02fac8a438eebb46b97aa309e30c6dfe4a48"
+
+[[files]]
+file = "resourcepacks/InfinityCrosshair-o1.zip"
+hash = "3baf87901bc876df6523baf4f60fc3c0663e450e18e9e23390f3684cb2650de8"
+
+[[files]]
+file = "resourcepacks/InfinityCrosshair-o4.zip"
+hash = "0920bf57b126a98161aa286e6a809d4b87cc5a85822166a6c22a1b53a9b4245f"
+
+[[files]]
+file = "resourcepacks/InfinityCrosshair-o5.zip"
+hash = "2eeaff0c03827e3ae90712c1ad94dce0f4ff8dd32b14479d0e1bc5acf5e2dcd0"
+
+[[files]]
+file = "resourcepacks/InfinityCrosshair-s2.zip"
+hash = "ca3c4173c8cbe9da5e54964acc2f648893a9810e1f100d1500bbdd667b5be107"
+
+[[files]]
+file = "resourcepacks/InfinityCrosshair-ss1.zip"
+hash = "2965cb0e90aa6c29df41049356a7dfcbabbbcaaf456e60b6536ad1875f2c76be"
+
+[[files]]
+file = "resourcepacks/TU69 Panorama.zip"
+hash = "dc4bff1a7cddbf8c32a43f30a68bb6d57071823b9e1d27873fbfeed87be65896"
+
+[[files]]
+file = "resourcepacks/Tiny_Tools_1.21.zip"
+hash = "2e628fc9827e1e140bf5e809bae664ae28e647dbe0542210753afe8517175219"
+
+[[files]]
+file = "resourcepacks/detailed-animations.pw.toml"
+hash = "0c270ee0cddead03263f41f49b824d9c799b9964d5e6b9b381777033600663a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant icons 1.21.5 v1.3.zip"
+hash = "399a72b250856b83d01eb5685e16ca5fe7a8e78f3531c4442b45e1ea9f32c4b6"
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "4f3e46f03f3af082015953f22c6600fd20e464222a20655b6aa1009d6ba65cc2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "73557eda0b75de2724fd3337879c5e05bd7a7c47007de9c318d98644fcffdb4e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "c35f41d09504478ac9d85d9a939460511c50676f5ea3a19537a2ac204281506e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fullbright-ub.pw.toml"
+hash = "a02bbbb6b32693725bf8548035301d71669edb2ff5c0d8d1227e9a3d5f2a697c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "0f1f0274bd042b888a470955154102e0d540396e5b3af341d050f05253fdcc3f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "028c0c4eb8e7f76ee32ba6889bae9c058da066c049d2e3e6c1172f84f9f1c134"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mandalas-gui-dark-mode.pw.toml"
+hash = "8ae3d6966d6ae701ea2615a87838536942cb6d7eba690ae33720a82850315d27"
+metafile = true
+
+[[files]]
+file = "resourcepacks/new-glowing-ores.pw.toml"
+hash = "0511040326c7649fde9b5784fff73b083f55e4ae7d43bfebc5e494cde0fe49e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shield-by-side.pw.toml"
+hash = "f06d3aceb5092e61c07591d9f642b72d17d1e5daff0266a9da0220ca030d75e7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/slightly-improved-font.pw.toml"
+hash = "841804ccbe93cc1c68a1565ec47bb0c56e8e42b56e3d6caf4ef5d2fdf30342a7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/translations-for-sodium.pw.toml"
+hash = "b32ebcb677b2f788bb574d6df3c84e55e20728da976492b6906a4126b4efa560"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "bf825aff575d42c7b992d0e6b39cd92c28ea62fc1910007528779ea86711c33a"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "5d08cd7518d055d321ad4685f8eea65d9e42bb5431a5a58e38fcd546e1ecb3bf"
+
+[[files]]
+file = "shaderpacks/bsl-shaders-classic.pw.toml"
+hash = "12f0f4fb508a6a178b3a725503d0802978b4bebdf678bccc5f81a5655a0db4c4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
+metafile = true
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+hash = "ee7d85e560722638174288e87de2c5e8ae82c8242de6614745e52d82acf7700c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/visual-vibrance.pw.toml"
+hash = "821d149bf0e1fd103a668ee7e9891db1f956fc160688b70749b24237d0a3d27d"
 metafile = true
