@@ -12,7 +12,7 @@ fork of vanilla reimagined by bxteam to bring some vanila+ mods i and my mates u
 
 ### About the modpack
 
-hello
+helo
 
 ---
 
