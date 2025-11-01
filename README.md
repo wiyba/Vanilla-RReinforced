@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/wiyba/WBA-Optimized/master/assets/text.svg)
+![Banner](https://raw.githubusercontent.com/wiyba/WBA-Optimized/master/assets/banner.svg)
 
 Fork of Vanilla-Reimagined by BX-Team to bring some Vanilla+ mods I and my mates use.
 
