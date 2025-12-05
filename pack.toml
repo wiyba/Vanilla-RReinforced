@@ -1,16 +1,16 @@
 name = "Vanilla RReinforced"
 author = "wiyba"
-version = "1.21.8-1.0.0"
+version = "1.21.10-1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "404ad9958b06c22d155d0b2782d5da85578b8017c101d3db808939591d232a72"
+hash = "ff63f186d7263367643d08f557f614cf7a9aa1d8f94ced0b08acf06ef68a829d"
 
 [versions]
-fabric = "0.17.3"
-minecraft = "1.21.8"
+fabric = "0.18.1"
+minecraft = "1.21.10"
 
 [options]
-acceptable-game-versions = ["1.21.8"]
+acceptable-game-versions = ["1.21.10"]

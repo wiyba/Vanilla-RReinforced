@@ -1,4 +1,4 @@
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Icons v.1.12.1.zip","file/Icon Branding Remover - For 1.8-1.21.8.zip","file/MandalasGUI+Darkmode_1.21.5_1.zip","file/Catppuccin Mocha Blue.zip","file/EvenBetterEnchants_v2.1_1.21.5+.zip","file/enchant icons 1.21.5 v1.3.zip","file/Slightly-Improved-Font-1.1.5.zip","file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/Tiny_Tools_1.21.zip","file/NewGlowingOres-§6[Border]§r.zip","file/TU69 Panorama.zip","file/LowOnFire v1.21.8§8.zip","file/SodiumTranslations.zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Icons v.1.12.1.zip","file/EvenBetterEnchants_v2.1_1.21.5+.zip","file/enchant icons 1.21.5 v1.3.zip","file/Slightly-Improved-Font-1.1.5.zip","file/Tiny_Tools_1.21.zip","file/NewGlowingOres-§6[Border]§r.zip","file/SodiumTranslations.zip","file/Unique Dark - Lite - 1.20.2-1.21.x.zip","file/TU69 Panorama.zip","file/LowOnFire v1.21.9§8.zip","file/DetailedAnimationsReworked - V1.15 PATCH.zip","file/Fast Better Grass.zip"]
 incompatibleResourcePacks:[]
 guiScale:2
 gamma:1.0
@@ -10,7 +10,6 @@ simulationDistance:16
 mouseSensitivity:0.20774647887323944
 allowServerListing:true
 skipMultiplayerWarning:true
-lang:ru_ru
 soundCategory_master:0.4139072847682119
 soundCategory_music:0.0
 soundCategory_record:1.0
@@ -22,3 +21,4 @@ soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
 soundCategory_ui:1.0
+modelPart_cape:false
