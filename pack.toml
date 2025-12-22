@@ -1,16 +1,16 @@
-name = "Vanilla RReinforced"
+name = "Rusher RReinforced"
 author = "wiyba"
-version = "1.21.10-1.1.0"
+version = "1.21.4-1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "18d1daa4d82bdc990d92505e3f1bd31694d7c0b300b737ab483f7f6036a617d7"
+hash = "2124a4466deb79d023f1bcfc88b890e905653bfee7428bf04cefda6f390a96cf"
 
 [versions]
-fabric = "0.18.1"
-minecraft = "1.21.10"
+fabric = "0.18.3"
+minecraft = "1.21.4"
 
 [options]
-acceptable-game-versions = ["1.21.10"]
+acceptable-game-versions = ["1.21.4"]

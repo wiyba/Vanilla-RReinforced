@@ -1,13 +1,13 @@
 name = "Mod Loading Screen"
-filename = "mod-loading-screen-1.0.5.jar"
+filename = "mod-loading-screen-1.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xAGJ6rQS/versions/dHmCqlFI/mod-loading-screen-1.0.5.jar"
+url = "https://cdn.modrinth.com/data/xAGJ6rQS/versions/BWSHJY2J/mod-loading-screen-1.0.4.jar"
 hash-format = "sha512"
-hash = "e8a5b086fd90a00250dee49bbf3642dce71016712a803d9d13f6c998555091c51317658badcb809d2b6cab30f72d96e268557f50aef73550581ef4917cdb1920"
+hash = "08761444a10ab63c956c8f57925867662de59e16a251cfc9b57e7d6cca8a9ef5ac3fdc1bea781392cd6c625d8fe983c1292a44817abb825fb391611bc231da60"
 
 [update]
 [update.modrinth]
 mod-id = "xAGJ6rQS"
-version = "dHmCqlFI"
+version = "BWSHJY2J"
