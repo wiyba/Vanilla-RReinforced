@@ -1,12 +1,12 @@
 name = "Vanilla RReinforced"
 author = "wiyba"
-version = "1.21.10-1.0.0"
+version = "1.21.10-1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ff63f186d7263367643d08f557f614cf7a9aa1d8f94ced0b08acf06ef68a829d"
+hash = "18d1daa4d82bdc990d92505e3f1bd31694d7c0b300b737ab483f7f6036a617d7"
 
 [versions]
 fabric = "0.18.1"

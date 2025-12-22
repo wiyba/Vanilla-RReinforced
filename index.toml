@@ -9,6 +9,14 @@ file = "config/capes.json5"
 hash = "b2fa48b70006470cf526acffeec005609d0b62f748f4de75b91e214905cc6580"
 
 [[files]]
+file = "config/chat_heads.json5"
+hash = "6c2b35622f8eb9ef6699b4fce208d8ea9b5f4c5debf46cf204dd8c80144f2309"
+
+[[files]]
+file = "config/chatpatches.json"
+hash = "10fd6e3a92656e0f3961bd5642d2c132ce26c2f5dd00594b0f59eaf02f32c514"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "22ddb7334c2162dd5e528fca2407e62755cc51fb1e368780619411c05d3e065a"
 
@@ -63,6 +71,10 @@ hash = "3dc23d36310c9bc33291f897396c044b25412772e108e0474cc35bf0679ef921"
 [[files]]
 file = "config/modmenu.json"
 hash = "ee42e1893d9c5ea4358c8bbaf28acd44ac2a0770480227f31aa13e14843ffaa7"
+
+[[files]]
+file = "config/raised.json"
+hash = "559f54d19484cc72d83f8297d8a81ba2020b1c991bac361d013ffdcce38e4d04"
 
 [[files]]
 file = "config/showmeyourskin-server.json"
@@ -137,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "0e073702f4562edac6258fd01f8b921628adf48fdd7e70209d93f4978753a0ce"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "85b6b778d7b56c6096a3e9809c44639d94c0013239bf2fe20899b7305397fe5d"
 metafile = true
 
 [[files]]
@@ -332,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "627733f5ea87211180e1ff8c59dcb97e64a49c19ecb1a49621e85c86c8448e40"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "4e5f9a4fbef8a03ea0f9dbd8cc60540b8a58491e3f84716213ab1a5792403ddc"
 metafile = true
 
 [[files]]
