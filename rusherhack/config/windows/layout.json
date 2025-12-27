@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Waypoints",
+    "hidden": false,
+    "focused": false,
+    "x": 224.5,
+    "y": 95.83272461650841,
+    "pinned": false,
+    "width": 200.0,
+    "height": 100.0
+  },
+  {
+    "name": "Relations",
+    "hidden": false,
+    "focused": false,
+    "x": 100.0,
+    "y": 325.0,
+    "pinned": false,
+    "width": 150.0,
+    "height": 100.0
+  },
+  {
+    "name": "Configs",
+    "hidden": false,
+    "focused": false,
+    "x": 200.0,
+    "y": 200.0,
+    "pinned": false,
+    "width": 200.0,
+    "height": 200.0
+  },
+  {
+    "name": "Alt Manager",
+    "hidden": true,
+    "focused": false,
+    "x": 905.5,
+    "y": 119.51424397370343,
+    "pinned": false,
+    "width": 250.0,
+    "height": 200.0
+  },
+  {
+    "name": "Console",
+    "hidden": false,
+    "focused": true,
+    "x": 958.5,
+    "y": 81.48648648648648,
+    "settings": [
+      {
+        "name": "timestamps",
+        "value": true
+      }
+    ],
+    "pinned": false,
+    "width": 200.0,
+    "height": 200.0
+  }
+]

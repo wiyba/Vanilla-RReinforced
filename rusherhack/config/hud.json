@@ -1,0 +1,1334 @@
+[
+  {
+    "name": "Watermark",
+    "toggled": false,
+    "x": 0.0,
+    "y": 0.0,
+    "snap": "TOP_LEFT",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "text",
+        "value": "rusherhack"
+      }
+    ]
+  },
+  {
+    "name": "Memory",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "BindList",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -16751361,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "animations",
+        "value": true
+      },
+      {
+        "name": "colormode",
+        "value": "DYNAMIC"
+      },
+      {
+        "name": "sorting",
+        "value": "LEXICOGRAPHICAL"
+      },
+      {
+        "name": "enabled",
+        "value": {
+          "rgba": -16711936,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "disabled",
+        "value": {
+          "rgba": -65536,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "showhidden",
+        "value": true
+      },
+      {
+        "name": "filter",
+        "value": "NONE"
+      }
+    ]
+  },
+  {
+    "name": "MacroList",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -16751361,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "animations",
+        "value": true
+      },
+      {
+        "name": "colormode",
+        "value": "DYNAMIC"
+      },
+      {
+        "name": "sorting",
+        "value": "LEXICOGRAPHICAL"
+      },
+      {
+        "name": "commands",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Profile",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Armor",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "scale",
+        "value": 1.0
+      },
+      {
+        "name": "durability",
+        "value": "OFF"
+      },
+      {
+        "name": "axis",
+        "value": "X"
+      },
+      {
+        "name": "hotbarlock",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "autoadjust",
+            "value": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CrystalCounter",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Durability",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Hunger",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "axis",
+        "value": "X"
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      },
+      {
+        "name": "saturation",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Inventory",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "scale",
+        "value": 1.0
+      },
+      {
+        "name": "texture",
+        "value": "OFF"
+      },
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Keystrokes",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "scale",
+        "value": 1.0
+      },
+      {
+        "name": "color",
+        "value": {
+          "rgba": -16751361,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "mousebuttons",
+        "value": true
+      },
+      {
+        "name": "spacebutton",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "PlayerView",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "scale",
+        "value": 1.0
+      },
+      {
+        "name": "forward",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "PotionEffects",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -16751361,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "animations",
+        "value": true
+      },
+      {
+        "name": "colormode",
+        "value": "DYNAMIC"
+      },
+      {
+        "name": "sorting",
+        "value": "LEXICOGRAPHICAL"
+      },
+      {
+        "name": "icons",
+        "value": true
+      },
+      {
+        "name": "duration",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "parentheses",
+            "value": true
+          },
+          {
+            "name": "color",
+            "value": {
+              "rgba": -1,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Biome",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "DubCounter",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "axis",
+        "value": "X"
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      },
+      {
+        "name": "singles",
+        "value": true
+      },
+      {
+        "name": "shulkers",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "EntityList",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -16751361,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "animations",
+        "value": true
+      },
+      {
+        "name": "colormode",
+        "value": "DYNAMIC"
+      },
+      {
+        "name": "sorting",
+        "value": "LEXICOGRAPHICAL"
+      },
+      {
+        "name": "combineduplicates",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "combineallitems",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "targets",
+        "value": null,
+        "subSettings": [
+          {
+            "name": "players",
+            "value": true
+          },
+          {
+            "name": "passives",
+            "value": true
+          },
+          {
+            "name": "items",
+            "value": true
+          },
+          {
+            "name": "vehicles",
+            "value": false
+          },
+          {
+            "name": "endcrystals",
+            "value": false
+          },
+          {
+            "name": "others",
+            "value": false
+          }
+        ]
+      },
+      {
+        "name": "metadata",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "health",
+            "value": false
+          },
+          {
+            "name": "distance",
+            "value": true
+          },
+          {
+            "name": "ping",
+            "value": false
+          },
+          {
+            "name": "pops",
+            "value": false
+          },
+          {
+            "name": "color",
+            "value": {
+              "rgba": -1,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IP",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      },
+      {
+        "name": "port",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "OnlineTime",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      }
+    ]
+  },
+  {
+    "name": "PlayerCount",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Queue",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "axis",
+        "value": "X"
+      },
+      {
+        "name": "normal",
+        "value": true
+      },
+      {
+        "name": "priority",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "ServerBrand",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "TPS",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      },
+      {
+        "name": "mode",
+        "value": "TICKS"
+      },
+      {
+        "name": "clamped",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Weather",
+    "toggled": false,
+    "x": 0.25,
+    "y": 0.25,
+    "snap": "null",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "FPS",
+    "toggled": false,
+    "x": 0.0,
+    "y": 0.0,
+    "snap": "TOP_LEFT",
+    "alignment": "TOP_LEFT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": false,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      },
+      {
+        "name": "quickupdate",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Logo",
+    "toggled": false,
+    "x": 0.305078125,
+    "y": 0.7997715898972557,
+    "snap": "null",
+    "alignment": "BOTTOM_LEFT",
+    "settings": [
+      {
+        "name": "scale",
+        "value": 4.0
+      }
+    ]
+  },
+  {
+    "name": "Position",
+    "toggled": true,
+    "x": 1.0,
+    "y": 0.0,
+    "snap": "TOP_RIGHT",
+    "alignment": "TOP_RIGHT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "axis",
+        "value": "X"
+      },
+      {
+        "name": "interdimensional",
+        "value": "DIFFERENTIATE"
+      },
+      {
+        "name": "interdimensionaly",
+        "value": false
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "colon",
+            "value": true
+          },
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": true,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "comma",
+        "value": false
+      },
+      {
+        "name": "decimals",
+        "value": false
+      }
+    ]
+  },
+  {
+    "name": "Direction",
+    "toggled": true,
+    "x": 1.0,
+    "y": 0.016058394160583942,
+    "snap": "TOP_RIGHT",
+    "alignment": "TOP_RIGHT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "axis",
+        "value": "X"
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -1,
+              "themeSync": true,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      },
+      {
+        "name": "yaw",
+        "value": true
+      },
+      {
+        "name": "pitch",
+        "value": true
+      },
+      {
+        "name": "facing",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Speed",
+    "toggled": true,
+    "x": 1.0,
+    "y": 0.032116788321167884,
+    "snap": "TOP_RIGHT",
+    "alignment": "TOP_RIGHT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": true,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      },
+      {
+        "name": "measurement",
+        "value": "BPS"
+      },
+      {
+        "name": "average",
+        "value": false,
+        "subSettings": [
+          {
+            "name": "time",
+            "value": 2.0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "FeatureList",
+    "toggled": false,
+    "x": 1.0,
+    "y": 0.06423357664233577,
+    "snap": "TOP_RIGHT",
+    "alignment": "TOP_RIGHT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -16751361,
+          "themeSync": true,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "animations",
+        "value": true
+      },
+      {
+        "name": "colormode",
+        "value": "DYNAMIC"
+      },
+      {
+        "name": "sorting",
+        "value": "LEXICOGRAPHICAL"
+      },
+      {
+        "name": "case",
+        "value": "NORMAL"
+      },
+      {
+        "name": "metadata",
+        "value": "BRACKETS"
+      },
+      {
+        "name": "metadatacolor",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      }
+    ]
+  },
+  {
+    "name": "Time",
+    "toggled": true,
+    "x": 1.0,
+    "y": 0.04817518248175182,
+    "snap": "TOP_RIGHT",
+    "alignment": "TOP_RIGHT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": true,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      },
+      {
+        "name": "mode",
+        "value": "IN_GAME"
+      },
+      {
+        "name": "format",
+        "value": "TWENTY_FOUR"
+      },
+      {
+        "name": "custom",
+        "value": "h:mm:ss a"
+      },
+      {
+        "name": "seconds",
+        "value": false
+      },
+      {
+        "name": "am/pm",
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "Ping",
+    "toggled": true,
+    "x": 1.0,
+    "y": 0.06423357664233577,
+    "snap": "TOP_RIGHT",
+    "alignment": "TOP_RIGHT",
+    "settings": [
+      {
+        "name": "color",
+        "value": {
+          "rgba": -1,
+          "themeSync": false,
+          "rainbow": false,
+          "rainbowMode": "DEFAULT",
+          "rainbowOffset": 0
+        }
+      },
+      {
+        "name": "label",
+        "value": true,
+        "subSettings": [
+          {
+            "name": "color",
+            "value": {
+              "rgba": -16751361,
+              "themeSync": true,
+              "rainbow": false,
+              "rainbowMode": "DEFAULT",
+              "rainbowOffset": 0
+            }
+          }
+        ]
+      },
+      {
+        "name": "colon",
+        "value": true
+      }
+    ]
+  }
+]

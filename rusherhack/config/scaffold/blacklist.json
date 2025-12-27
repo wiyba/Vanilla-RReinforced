@@ -1,0 +1,92 @@
+[
+  {
+    "block": "minecraft:gravel"
+  },
+  {
+    "block": "minecraft:sand"
+  },
+  {
+    "block": "minecraft:anvil"
+  },
+  {
+    "block": "minecraft:chipped_anvil"
+  },
+  {
+    "block": "minecraft:damaged_anvil"
+  },
+  {
+    "block": "minecraft:cobweb"
+  },
+  {
+    "block": "minecraft:sweet_berry_bush"
+  },
+  {
+    "block": "minecraft:powder_snow"
+  },
+  {
+    "block": "minecraft:chest"
+  },
+  {
+    "block": "minecraft:ender_chest"
+  },
+  {
+    "block": "minecraft:enchanting_table"
+  },
+  {
+    "block": "minecraft:cauldron"
+  },
+  {
+    "block": "minecraft:hopper"
+  },
+  {
+    "block": "minecraft:shulker_box"
+  },
+  {
+    "block": "minecraft:white_shulker_box"
+  },
+  {
+    "block": "minecraft:orange_shulker_box"
+  },
+  {
+    "block": "minecraft:magenta_shulker_box"
+  },
+  {
+    "block": "minecraft:light_blue_shulker_box"
+  },
+  {
+    "block": "minecraft:yellow_shulker_box"
+  },
+  {
+    "block": "minecraft:lime_shulker_box"
+  },
+  {
+    "block": "minecraft:pink_shulker_box"
+  },
+  {
+    "block": "minecraft:gray_shulker_box"
+  },
+  {
+    "block": "minecraft:light_gray_shulker_box"
+  },
+  {
+    "block": "minecraft:cyan_shulker_box"
+  },
+  {
+    "block": "minecraft:purple_shulker_box"
+  },
+  {
+    "block": "minecraft:blue_shulker_box"
+  },
+  {
+    "block": "minecraft:brown_shulker_box"
+  },
+  {
+    "block": "minecraft:green_shulker_box"
+  },
+  {
+    "block": "minecraft:red_shulker_box"
+  },
+  {
+    "block": "minecraft:black_shulker_box"
+  }
+]
