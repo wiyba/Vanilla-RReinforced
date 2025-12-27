@@ -3,3 +3,6 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+rusherhack/logs/
+rusherhack/legacy/logs/
+rusherhack/cache/

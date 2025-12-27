@@ -1,4 +1,4 @@
-[XP] 2b2t Highways:false
+[XP] 2b2t Highways:true
 [XP] 2b2t Highways Color:2
 [XP] 2b2t Highways Opacity:100.0
 [XP] 2b2t Highways Width:0
@@ -46,13 +46,13 @@
 [XP] New Chunks Inverse Color:1
 [XP] New Chunks Opacity:100.0
 [XP] New Chunks Render Inverse:false
-[XP] NewChunks Highlighting:false
+[XP] NewChunks Highlighting:true
 [XP] Old Biomes:false
 [XP] Old Chunks Color:3
 [XP] Old Chunks Opacity:100.0
 [XP] OldBiomes Color:1
 [XP] OldBiomes Opacity:100.0
-[XP] OldChunks Highlighting:false
+[XP] OldChunks Highlighting:true
 [XP] OldChunks Inverse:false
 [XP] Palette NewChunks:false
 [XP] Palette NewChunks Color:0
@@ -63,7 +63,7 @@
 [XP] Persist Dim Switch:true
 [XP] Plain Waypoint Sharing:false
 [XP] Player Spawn Chunks:false
-[XP] Portal Highlights:false
+[XP] Portal Highlights:true
 [XP] Portal Highlights Color:5
 [XP] Portal Highlights Opacity:100.0
 [XP] PortalSkip Color:6

@@ -6,13 +6,11 @@
     }
   },
   "accessibility": {
+    "enableAccessibilityPlugin": false,
     "textBackgroundOpacity": 0.0,
     "flipMainHand": false,
-    "narrateKeys": false,
-    "noKeyConflict": false,
     "enableTextToSpeech": false,
-    "ttsMode": "TOGGLE",
-    "enableAccessibilityPlugin": false
+    "ttsMode": "TOGGLE"
   },
   "plugin": {
     "minecraft": {
@@ -24,13 +22,13 @@
       "energy_storage.style": "PROGRESS_BAR",
       "item_storage.normal_amount": 9,
       "item_storage": true,
-      "harvest_tool": false,
+      "harvest_tool": true,
       "armor_stand": true,
       "fluid_storage.detailed": false,
       "next_entity_drop": true,
       "energy_storage": true,
       "entity_armor.max_for_render": 20,
-      "breaking_progress": false,
+      "breaking_progress": true,
       "tnt_stability": true,
       "item_storage.items_per_line": 9,
       "item_frame": true,
@@ -46,7 +44,6 @@
       "fluid_storage": true,
       "jukebox": true,
       "brewing_stand": true,
-      "potion_effects.limit": 7,
       "energy_storage.detailed": false,
       "note_block": true,
       "fluid_storage.style": "PROGRESS_BAR",
@@ -58,7 +55,7 @@
       "pet_armor": "SHOW_DAMAGEABLE",
       "harvest_tool.creative": false,
       "horse_stats": true,
-      "item_tooltip": false,
+      "item_tooltip": true,
       "entity_health": true,
       "enchantment_power": true,
       "zombie_villager": true,
@@ -82,18 +79,16 @@
       "registry_name.special": false,
       "block_states": false,
       "distance": false,
-      "object_name": true,
       "block_face": false,
       "coordinates": false,
       "registry_name": "OFF",
       "block_properties": false,
-      "mod_name": "ON"
+      "mod_name": true
     }
   },
-  "name": "@jade.profile_preset.minimalism",
   "general": {
     "itemModNameTooltip": true,
-    "bossBarOverlapMode": "HIDE_TOOLTIP",
+    "bossBarOverlapMode": "PUSH_DOWN",
     "builtinCamouflage": true,
     "hideFromTabList": true,
     "hideFromGUIs": true,
@@ -101,23 +96,24 @@
     "extendedReach": 0.0,
     "debug": false,
     "displayBosses": true,
-    "displayMode": "LITE",
+    "displayMode": "TOGGLE",
     "fluidMode": "ANY",
     "displayTooltip": true,
     "displayBlocks": true,
     "displayEntities": true
   },
   "overlay": {
-    "iconMode": "INLINE",
+    "iconMode": "TOP",
     "animation": true,
     "disappearingDelay": 0.0,
-    "overlayAnchorY": 0.0,
+    "overlaySquare": false,
     "autoScaleThreshold": 0.4,
-    "alpha": 0.0,
-    "overlayPosY": 1.0,
+    "alpha": 0.7,
     "overlayScale": 1.0,
     "overlayAnchorX": 0.5,
-    "activeTheme": "jade:dark/slim",
-    "overlayPosX": 0.5
+    "overlayAnchorY": 0.0,
+    "activeTheme": "jade:dark",
+    "overlayPosX": 0.5,
+    "overlayPosY": 1.0
   }
 }
