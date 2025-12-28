@@ -1,0 +1,13 @@
+name = "Mouse Wheelie"
+filename = "mouse-wheelie-1.15.0+mc1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/ncristLN/mouse-wheelie-1.15.0%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "b9f1a0d64c1418b824be71355c0679b899dea3ff230acfa53724a3df2897fbdad321b1575de7bbb47163540afa8e049bb914953845653670ee4ca337169ffcab"
+
+[update]
+[update.modrinth]
+mod-id = "u5Ic2U1u"
+version = "ncristLN"
