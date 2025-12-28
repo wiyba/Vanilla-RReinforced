@@ -1,0 +1,13 @@
+name = "Whimscape 1.21 Panorama"
+filename = "§cTricky §3Trials §F- Whimscape Panorama.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RS1AZwUA/versions/s5Lhvcpp/%C2%A7cTricky%20%C2%A73Trials%20%C2%A7F-%20Whimscape%20Panorama.zip"
+hash-format = "sha512"
+hash = "8bd705246e2191c9313284b74f7ec2e202d6c8796c78b06b2725d9dd313bb82de4c2749ae0354095126137e61b1f7702aa7f49f2be90c65f2890ec433f5c5a76"
+
+[update]
+[update.modrinth]
+mod-id = "RS1AZwUA"
+version = "s5Lhvcpp"

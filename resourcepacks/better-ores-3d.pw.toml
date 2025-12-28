@@ -1,0 +1,13 @@
+name = "Better Ores 3D"
+filename = "§7Better§bOres§93D §f- 1.21.8§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9D4BBjDX/versions/bpGSXzzw/%C2%A77Better%C2%A7bOres%C2%A793D%20%C2%A7f-%201.21.8%C2%A70.zip"
+hash-format = "sha512"
+hash = "797ee95ef884868495e1beaff0a3a332d6b960e1bbaf5456f7a1d73fc85a38d1bb8582282758d803990bf6eeb84eb1baa9f682deff6f31ce397346fa4089bd5a"
+
+[update]
+[update.modrinth]
+mod-id = "9D4BBjDX"
+version = "bpGSXzzw"

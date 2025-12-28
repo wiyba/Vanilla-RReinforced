@@ -1,0 +1,13 @@
+name = "Whimscape X Fresh Animations: Objects"
+filename = "Whimscape X Fresh Animations Objects.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7HvGANfc/versions/SFH8wEec/Whimscape%20X%20Fresh%20Animations%20Objects.zip"
+hash-format = "sha512"
+hash = "7c6204dc6919cb0ba5436afe232d006442df39c3d02bb5eb1576fb3523a2bcad6a871c3783368cf6a3189da8e5283a635b13977fb7c5ee73b5aa187cf13b7396"
+
+[update]
+[update.modrinth]
+mod-id = "7HvGANfc"
+version = "SFH8wEec"

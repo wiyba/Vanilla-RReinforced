@@ -1,0 +1,13 @@
+name = "Whimscape Better Elytra Color"
+filename = "Whimscape Better Elytra Color.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bQVzX9X0/versions/Py7RLiQL/Whimscape%20Better%20Elytra%20Color.zip"
+hash-format = "sha512"
+hash = "a6f36401c869e6b42fa991066c61c3199356e78cbf8463df9ea7681126fa67b76f305ce14bbbad9764c6e6d773ee485df7d2f53865dd5109e82ab2da6be51df0"
+
+[update]
+[update.modrinth]
+mod-id = "bQVzX9X0"
+version = "Py7RLiQL"

@@ -1,0 +1,13 @@
+name = "Whimscape Better Containers GUI"
+filename = "Whimscape Better Containers.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tTmz0iEA/versions/4kodkMVO/Whimscape%20Better%20Containers.zip"
+hash-format = "sha512"
+hash = "b602208959d1e265420af808823a2b41ac777944e73f57401a666a53a455a4bae07ec82987935a6dbee0fc8bf9d088f3689a65811957256f289cd45f817d5bbd"
+
+[update]
+[update.modrinth]
+mod-id = "tTmz0iEA"
+version = "4kodkMVO"
