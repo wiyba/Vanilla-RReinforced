@@ -3,14 +3,14 @@
     "top_left": [],
     "top_right": [
       {
-        "text": "WBA Optimized 1.21.11",
+        "text": "WBA Optimized 26.2",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/wiyba/"
         }
       },
       {
-        "text": "Version 2.0.0"
+        "text": "Version 1.0.0"
       }
     ],
     "bottom_left": [],

@@ -1,13 +1,13 @@
 name = "Show Durability"
-filename = "showdurability-1.1.2+1.21.11.jar"
+filename = "showdurability-1.1.3+26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/g2HPYy8r/versions/fuiLNB8b/showdurability-1.1.2%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/g2HPYy8r/versions/UccwYEfh/showdurability-1.1.3%2B26.2.jar"
 hash-format = "sha512"
-hash = "9a8d8fe2c9c6cd85601e9c178c38be27755791426adcb86ac5695656a02460711627879e94309dad898badc188ebb1329ecd5f6b73f7ffa716d0af716b551e5a"
+hash = "390b615c87cf2130f5deef02f714b360287f7446a8c736bb102fec579e2fbf9132af40aa66905737aa5b60d065c6b5ce9e5fa963e1a70fa99bd1a76c01b9df17"
 
 [update]
 [update.modrinth]
 mod-id = "g2HPYy8r"
-version = "fuiLNB8b"
+version = "UccwYEfh"

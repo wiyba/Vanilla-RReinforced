@@ -1,3 +1,0 @@
-restore betterf3
-
-add xaeros and capes config

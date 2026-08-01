@@ -1,18 +1,47 @@
 {
+  "name": "@jade.profile_preset.minimalism",
+  "general": {
+    "displayTooltip": true,
+    "displayBlocks": true,
+    "displayEntities": true,
+    "displayBosses": true,
+    "displayMode": "LITE",
+    "fluidMode": "ANY",
+    "perspectiveMode": "CAMERA",
+    "extendedReach": 0.0,
+    "debug": false,
+    "itemModNameTooltip": true,
+    "bossBarOverlapMode": "HIDE_TOOLTIP",
+    "builtinCamouflage": true,
+    "hideFromTabList": true,
+    "hideFromGUIs": true
+  },
+  "overlay": {
+    "activeTheme": "jade:dark/slim",
+    "overlayPosX": 0.5,
+    "overlayPosY": 1.0,
+    "overlayScale": 1.0,
+    "overlayAnchorX": 0.5,
+    "overlayAnchorY": 0.0,
+    "autoScaleThreshold": 0.4,
+    "alpha": 0.0,
+    "iconMode": "INLINE",
+    "animation": true,
+    "disappearingDelay": 0.0
+  },
   "formatting": {
     "itemModNameStyle": {
-      "italic": true,
-      "color": "blue"
+      "color": "blue",
+      "italic": true
     }
   },
   "accessibility": {
-    "textBackgroundOpacity": 0.0,
-    "flipMainHand": false,
-    "narrateKeys": false,
-    "noKeyConflict": false,
     "enableTextToSpeech": false,
     "ttsMode": "TOGGLE",
-    "enableAccessibilityPlugin": false
+    "enableAccessibilityPlugin": false,
+    "textBackgroundOpacity": 0.0,
+    "flipMainHand": false,
+    "narrateKeys": false
   },
   "plugin": {
     "minecraft": {
@@ -34,9 +63,11 @@
       "tnt_stability": true,
       "item_storage.items_per_line": 9,
       "item_frame": true,
+      "shelf": true,
       "crop_progress": true,
       "command_block": true,
       "mob_growth": true,
+      "sulfur_cube": true,
       "waxed": true,
       "harvest_tool.new_line": false,
       "entity_health.max_for_render": 40,
@@ -67,10 +98,12 @@
       "entity_health.icons_per_line": 10,
       "total_enchantment_power": true,
       "potion_effects": true,
+      "item_storage.sort": false,
       "painting": true,
       "chiseled_bookshelf": true
     },
     "jade_access": {
+      "npc_description": true,
       "held_item": true,
       "sign": true,
       "block": true,
@@ -79,6 +112,7 @@
     },
     "jade": {
       "coordinates.rel": false,
+      "mod_name.translated": true,
       "registry_name.special": false,
       "block_states": false,
       "distance": false,
@@ -87,37 +121,8 @@
       "coordinates": false,
       "registry_name": "OFF",
       "block_properties": false,
+      "loot_table": false,
       "mod_name": "ON"
     }
-  },
-  "name": "@jade.profile_preset.minimalism",
-  "general": {
-    "itemModNameTooltip": true,
-    "bossBarOverlapMode": "HIDE_TOOLTIP",
-    "builtinCamouflage": true,
-    "hideFromTabList": true,
-    "hideFromGUIs": true,
-    "perspectiveMode": "CAMERA",
-    "extendedReach": 0.0,
-    "debug": false,
-    "displayBosses": true,
-    "displayMode": "LITE",
-    "fluidMode": "ANY",
-    "displayTooltip": true,
-    "displayBlocks": true,
-    "displayEntities": true
-  },
-  "overlay": {
-    "iconMode": "INLINE",
-    "animation": true,
-    "disappearingDelay": 0.0,
-    "overlayAnchorY": 0.0,
-    "autoScaleThreshold": 0.4,
-    "alpha": 0.0,
-    "overlayPosY": 1.0,
-    "overlayScale": 1.0,
-    "overlayAnchorX": 0.5,
-    "activeTheme": "jade:dark/slim",
-    "overlayPosX": 0.5
   }
 }
