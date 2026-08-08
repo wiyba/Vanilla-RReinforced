@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "99d2481412c3bd36949954ec78be8679eb6e200bd965cee383cd48590e881b38"
+hash = "72f47d2f142420027301f76b1883505d6ace007c708b42750ecb5323c8035e67"
 
 [[files]]
 file = "config/mod-loading-screen/background.png"
-hash = "6a83489f75626e6e7608e04273909e1f5bf671b1688d4705994466e1ff39ea79"
+hash = "09d807629a05a5636d66f920c79a2e8a9639d337ec169337f9da3504a981adde"
 
 [[files]]
 file = "config/mod-loading-screen/config.txt"
@@ -114,11 +114,11 @@ hash = "460fac2bde02ac45e5734fb00ece3845d2e68a6fbb9bcd79d61d13859430053e"
 
 [[files]]
 file = "config/modpack_defaults/config/sodium-extra-options.json"
-hash = "850ccc3254e417cd93abfdb06d6167ff66dc5537467e5eb2a942faff187f65e7"
+hash = "7c1d4915bffb950d871b20d1a55d6ab9709f9e2950f34610cf4c0241f98c8f21"
 
 [[files]]
 file = "config/modpack_defaults/config/sodium-options.json"
-hash = "f6f002ae6ee1308b3c19b308cc5ea6be55f81c082d7e297270c51308ac8002a5"
+hash = "acb80d3df1778b5ce78343271d03cffdf4b099fc8ecf57d85eb1670a7fb17c6f"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"

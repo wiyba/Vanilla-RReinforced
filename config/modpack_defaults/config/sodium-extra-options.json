@@ -77,7 +77,7 @@
     "reduce_resolution_on_mac": false,
     "wayland_fullscreen_resolution": false,
     "wayland_fullscreen_resolution_recovery_pending": false,
-    "use_adaptive_sync": true,
+    "use_adaptive_sync": false,
     "cloud_height_override": true,
     "cloud_height": 251,
     "toasts": true,
