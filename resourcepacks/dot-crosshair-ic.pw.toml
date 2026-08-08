@@ -1,0 +1,13 @@
+name = "Dot Crosshair"
+filename = "DotCrosshair.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/n6cZKdZD/versions/n4mjoj5c/DotCrosshair.zip"
+hash-format = "sha512"
+hash = "31ca4bda4b712c68470097087a48bf388b285076d02384b6802e40d3b1dcb322bf215e17d506b4420ef5f5fe9daf150d9b6bdf8911309fe796e811a2002906f7"
+
+[update]
+[update.modrinth]
+mod-id = "n6cZKdZD"
+version = "n4mjoj5c"

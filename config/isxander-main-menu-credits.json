@@ -3,14 +3,14 @@
     "top_left": [],
     "top_right": [
       {
-        "text": "WBA Optimized 26.2",
-        "clickEvent": {
+        "text": "Vanilla RReinforced 26.2",
+        "click_event": {
           "action": "open_url",
-          "value": "https://github.com/wiyba/"
+          "url": "https://github.com/wiyba/Vanilla-RReinforced"
         }
       },
       {
-        "text": "Version 1.0.0"
+        "text": "Version 2.0.0-beta.1"
       }
     ],
     "bottom_left": [],
@@ -19,7 +19,18 @@
   },
   "pause_menu": {
     "top_left": [],
-    "top_right": [],
+    "top_right": [
+      {
+        "text": "Vanilla RReinforced 26.2",
+        "click_event": {
+          "action": "open_url",
+          "url": "https://github.com/wiyba/Vanilla-RReinforced"
+        }
+      },
+      {
+        "text": "Version 2.0.0-beta.1"
+      }
+    ],
     "bottom_left": [],
     "bottom_right": [],
     "mod_blacklist": []

@@ -1,0 +1,13 @@
+name = "Modern Crosshair"
+filename = "ModernCrosshair.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yx8Hwrw5/versions/rQJfDItl/ModernCrosshair.zip"
+hash-format = "sha512"
+hash = "fd8e31886a9b03bffc9275d23a3e1124a5b606816585d7f6c61d74e57cfcef54291fa30b68a13d918c3a0acee686ba55dcb98bdc7bfa32c1db41098591077b5a"
+
+[update]
+[update.modrinth]
+mod-id = "Yx8Hwrw5"
+version = "rQJfDItl"

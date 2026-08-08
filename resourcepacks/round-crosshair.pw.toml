@@ -1,0 +1,13 @@
+name = "Round Crosshair"
+filename = "RoundCrosshair.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eR3zX5gc/versions/8Qeoh7LQ/RoundCrosshair.zip"
+hash-format = "sha512"
+hash = "eb1dc5afac4ac9c5486e6029a8810e806e14449685004b5c7dd8aa1610d34cdf58339c90e0e5ea898d7ed0f95276b852a6d20ef7a5e3ffc950bd7540dfad8b45"
+
+[update]
+[update.modrinth]
+mod-id = "eR3zX5gc"
+version = "8Qeoh7LQ"

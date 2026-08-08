@@ -8,7 +8,7 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    if: "contains(github.event.head_commit.message, 'release:')"
+    if: "contains(github.event.head_commit.message, 'release:') || contains(github.event.head_commit.message, 'beta:') || contains(github.event.head_commit.message, 'alpha:')"
     permissions:
       contents: write
 
@@ -57,9 +57,9 @@ jobs:
           modrinth-featured: true
           modrinth-unfeature-mode: subset
           modrinth-version: ${{ steps.pack_version.outputs.value }}
-          modrinth-version-type: release
+          modrinth-version-type: ${{ (contains(steps.pack_version.outputs.value, 'beta') && 'beta') || (contains(steps.pack_version.outputs.value, 'alpha') && 'alpha') || 'release' }}
 
-          name: 'Vanilla RReinforced ${{ steps.pack_version.outputs.value }}'
+          name: ''
           files: '*.mrpack'
           loaders: |
             fabric
@@ -72,5 +72,6 @@ jobs:
           files: "Vanilla RReinforced-*.mrpack"
           name: 'Vanilla RReinforced ${{ steps.pack_version.outputs.value }}'
           tag_name: ${{ steps.pack_version.outputs.value }}
+          prerelease: ${{ contains(steps.pack_version.outputs.value, 'beta') || contains(steps.pack_version.outputs.value, 'alpha') }}
           generate_release_notes: true
           token: ${{ secrets.GITHUB_TOKEN }}

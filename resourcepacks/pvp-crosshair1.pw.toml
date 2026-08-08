@@ -1,0 +1,13 @@
+name = "PvP Crosshair 1"
+filename = "PvP-Crosshair1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ESvSTbjz/versions/YXX8RJru/PvP-Crosshair1.zip"
+hash-format = "sha512"
+hash = "a871c21041dbe2d0c779b0f8656234d2050eecfdee760032e778e9fc6e6cf03a819bbd7b30f960cef928adaa8606681e7f643bef7d07a7679f143d2f7a5746a6"
+
+[update]
+[update.modrinth]
+mod-id = "ESvSTbjz"
+version = "YXX8RJru"

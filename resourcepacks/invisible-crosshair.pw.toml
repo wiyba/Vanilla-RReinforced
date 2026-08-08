@@ -1,0 +1,13 @@
+name = "Invisible Crosshair - [IC]"
+filename = "InvisibleCrosshair.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eS0YhRfd/versions/be8Fs7Va/InvisibleCrosshair.zip"
+hash-format = "sha512"
+hash = "8b557b71976b1e9dadfca0c61e88b51cf92c7540ff76222c055d14ef388bd413a6bf9a5b0f709e8d317c6432dfbd81d799e6635a7446b1a690ca4fe23276af2c"
+
+[update]
+[update.modrinth]
+mod-id = "eS0YhRfd"
+version = "be8Fs7Va"

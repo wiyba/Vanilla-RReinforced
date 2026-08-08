@@ -1,0 +1,11 @@
+{
+    mace: "threeDee",
+    bow: "threeDee",
+    shieldIcon: "twoDee",
+    compatibility: {
+        bottleOEnchanting: "vanilla",
+        shield: "vanilla",
+        sword: "vanilla",
+        copperTools: "vanilla"
+    }
+}

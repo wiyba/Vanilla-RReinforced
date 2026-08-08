@@ -1,0 +1,13 @@
+name = "Tiny Crosshair"
+filename = "TinyCrosshair.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KzeRtC4n/versions/yQoqiUrW/TinyCrosshair.zip"
+hash-format = "sha512"
+hash = "41e2243a09507c5756277345cd6bb28d600fd68ea5f93acee7466ef6296b653c53f971146c2ea870df5a493be7696ff190215e22b3159112308d069df1e4aff0"
+
+[update]
+[update.modrinth]
+mod-id = "KzeRtC4n"
+version = "yQoqiUrW"
