@@ -123,6 +123,9 @@
       "block_properties": false,
       "loot_table": false,
       "mod_name": "OFF"
+    },
+    "chesttracker": {
+      "memory_preview": true
     }
   }
 }

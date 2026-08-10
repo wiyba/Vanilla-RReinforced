@@ -104,7 +104,7 @@
 		   (default value: key.keyboard.left.control)
 		*/
 		"lockTooltipKey": {
-			"code": "key.keyboard.unknown"
+			"code": "key.keyboard.left.control"
 		}
 	},
 	"preview": {

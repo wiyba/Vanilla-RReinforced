@@ -1,12 +1,5 @@
 {
-  "activeProviderIds": [
-    "minecraftcapes",
-    "mod-cape-provider",
-    "optifine",
-    "sneaky-capes",
-    "cosmetica",
-    "labymod"
-  ],
+  "activeProviderIds": [],
   "useDefaultProvider": true,
   "onlyLoadForSelf": false,
   "enableElytraTexture": true,

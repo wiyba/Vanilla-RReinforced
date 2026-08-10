@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "72f47d2f142420027301f76b1883505d6ace007c708b42750ecb5323c8035e67"
+hash = "56dd30c1e120b328ca9503cdc86548cfa8a87ecd656556a754d0f39732ab2064"
 
 [[files]]
 file = "config/mod-loading-screen/background.png"
@@ -30,7 +30,7 @@ hash = "0b9458b7009137cfb230c3e65e2fad7167567b2052fe1623ee6c439b54ea65a5"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
-hash = "ca7ee6b8194fbd5773a8a0200e6970abf43589cfec4ec79ba78520f480367237"
+hash = "0b38dc8f5618a31c5d86257e8d329df22238ba28454b4934dadaa915423098c1"
 
 [[files]]
 file = "config/modpack_defaults/config/chat_heads.json5"
@@ -62,19 +62,19 @@ hash = "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9"
 
 [[files]]
 file = "config/modpack_defaults/config/jade/jade.json"
-hash = "ad1be61f88d10123280137ad812fdc531621c8a7694a69b0cad45f963c610e13"
+hash = "c84390810eabb59dbae13815e7a9f0c57a56759e8cff579bbd168c0b8036299c"
 
 [[files]]
 file = "config/modpack_defaults/config/jade/profiles/1/jade.json"
-hash = "e4437465fcb51525cc464afde805b3def1839d71803426c6e5261e12a7060674"
+hash = "97fbc34851416f6a4c4d502583a1fd19d13c428e1c9fc4c35797a08a71c88f37"
 
 [[files]]
 file = "config/modpack_defaults/config/jade/profiles/2/jade.json"
-hash = "05f8b7794d382fb64da4fc6c12630b65ffe74dfe38632f197fe71b8f04498b6c"
+hash = "3c3bfe8938ab4eb899247ab674966b56e76b72324c2ad3bb7ccc0bb4ddc3fd9d"
 
 [[files]]
 file = "config/modpack_defaults/config/jade/profiles/3/jade.json"
-hash = "acaca937368944ba9be367c6bc2afb1d6dcbece6fe24d0d91d226a78a71b240a"
+hash = "2f2f0a7ad0fe74adb47b157aab5275075c10f17053612edfb7a19d0ebb3bf4a0"
 
 [[files]]
 file = "config/modpack_defaults/config/jade/server-plugin-overrides.json"
@@ -82,7 +82,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/modpack_defaults/config/jade/sort-order.json"
-hash = "f663b04bfbb4cc4c27dea27ec407ed00fd56a8b3960b91a403dea39c6e359e5d"
+hash = "541f420da296024e1d4effed1b8272b1382534b5f2bf2c1675eef37c545418a6"
 
 [[files]]
 file = "config/modpack_defaults/config/jade/usernamecache.json"
@@ -110,7 +110,7 @@ hash = "559f54d19484cc72d83f8297d8a81ba2020b1c991bac361d013ffdcce38e4d04"
 
 [[files]]
 file = "config/modpack_defaults/config/shulkerboxtooltip.json5"
-hash = "460fac2bde02ac45e5734fb00ece3845d2e68a6fbb9bcd79d61d13859430053e"
+hash = "13dce528a81f59c5ceb80c2ddf49fd0012b19ea69b75ecfeb797b9399a834789"
 
 [[files]]
 file = "config/modpack_defaults/config/sodium-extra-options.json"
@@ -122,7 +122,7 @@ hash = "acb80d3df1778b5ce78343271d03cffdf4b099fc8ecf57d85eb1670a7fb17c6f"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "05b5b510a021246ec767049780e2e3057adb66e65244da42b1f58d8c692d42e9"
+hash = "e824982ac59c807f94f1ae6b409e086790d6168407ee6aa7c30713466e585075"
 
 [[files]]
 file = "config/modpack_defaults/resourcepacks/Enchantment Outlines.zip.rpo"
@@ -464,11 +464,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "f06c0b9150da9877b99cb265d037c067e509340d9bf347e02cef2043c110e963"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "cfd82363b33192a90d7f0e63dc6149f9b37507d8ee428fc1cfdea48063a91720"
 metafile = true
 
 [[files]]
